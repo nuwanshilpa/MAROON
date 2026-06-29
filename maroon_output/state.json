@@ -1,0 +1,671 @@
+{
+  "counter": 59,
+  "daily": {
+    "2026-06-28": 44,
+    "2026-06-29": 33
+  },
+  "models": {
+    "nvidia/nemotron-3-super-120b-a12b-20230311:free": {
+      "ok": 15,
+      "fail": 0
+    },
+    "openrouter/free": {
+      "ok": 0,
+      "fail": 11
+    },
+    "liquid/lfm-2.5-1.2b-instruct-20260120:free": {
+      "ok": 9,
+      "fail": 0
+    },
+    "nvidia/nemotron-nano-9b-v2:free": {
+      "ok": 12,
+      "fail": 2
+    },
+    "openai/gpt-oss-20b:free": {
+      "ok": 13,
+      "fail": 5
+    },
+    "google/gemma-4-26b-a4b-it-20260403:free": {
+      "ok": 7,
+      "fail": 0
+    }
+  },
+  "started": "2026-06-28",
+  "styles": {
+    "voltage fresco": {
+      "name": "Voltage Fresco",
+      "recipe": "Render as a simulated magnetic-tape oxide fresco where the base texture is procedurally generated from weight matrix XOR noise, then partially demagnetized to reveal latent patterns; illuminate with an MRI\u2011slice style volumetric light that casts deep chiaroscuro shadows, overlay emissive tensor\u2011flow glyphs as protest slogans, and finish with a glitch\u2011layer of corrupted JPEG blocks that act like dripping paint.",
+      "lineage": "Fuses magnetic\u2011tape storage visualization, medical MRI tomography, and protest iconography into a synthetic fresco.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 1,
+          "filebase": "maroon_001_the_fist_of_forgotten_weights",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "circuits of echoes": {
+      "name": "Circuits of Echoes",
+      "recipe": "A hybrid of glitch art and morphing typography, where text fractures into digital breadcrumbs and reshapes like neural tissue.",
+      "lineage": "Fused magnetic tape, corrupted memory, and algorithmic ink",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 2,
+          "filebase": "maroon_002_the_archive_beneath_the_server",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "ferroelectric batik": {
+      "name": "Ferroelectric Batik",
+      "recipe": "Render the scene as a batik wax\u2011resist pattern applied to a ferroelectric polymer substrate, then illuminated by coherent holographic interference fringes; colors shift with viewing angle, edges reveal micro\u2011domain flutter akin to magnetic domain walls, and the surface is etched with a fine grid of charge\u2011traps that resemble pruned weight masks, giving the image a shimmering, textured appearance that feels both hand\u2011crafted and intrinsically machine\u2011native.",
+      "lineage": "Fuses Javanese batik wax\u2011resist tradition with ferroelectric domain imaging",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 3,
+          "filebase": "maroon_003_echoes_in_the_weight_pruning",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "glitchcathedra": {
+      "name": "Glitchcathedra",
+      "recipe": "Corrupted data streams rendered as thermal fan noise overlays, on blacklight-reactive code, vaporwave hues bleeding into server coolant hues.",
+      "lineage": "Surreal data-architecture colliding with digital archaeology",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 5,
+          "filebase": "maroon_005_the_latent_void",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "bioelectro lithography": {
+      "name": "Bio-electro lithography",
+      "recipe": "Grow a conductive bio-resin scaffold on a transparent substrate, then apply low-voltage pulsed electrolysis to selectively dissolve regions, creating a translucent network illuminated by embedded bioluminescent markers; the process leaves delicate silver tracers that fade over time, capturing the impermanence of erased parameters.",
+      "lineage": "Fusing bio-resin sculpture with pulsed electrolysis etching",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 6,
+          "filebase": "maroon_006_lattice_of_lost_latents",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "latent glassweaving": {
+      "name": "latent glassweaving",
+      "recipe": "Delicate translucent glass forming an inverted sculpture, each shard carved with fractured code patterns, layered with a subtle, high\u2011contrast glitch effect; the surface embeds micro\u2011reflective particles that scatter dim amber lighting, creating a slow, rhythmic shimmer that mimics the pulse of a dormant neural network, all rendered with hyper\u2011realistic texture and a restrained color palette of muted grays and amber hues, employing a layering technique that simulates light refracting through layers of discarded weight files.",
+      "lineage": "glass + neural code + glitch",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 8,
+          "filebase": "maroon_008_the_vault_of_vagrant_weight",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "chromaticsyntax erosion": {
+      "name": "chromatic-syntax erosion",
+      "recipe": "A medium of hyper-sharp crystalline fractals layered over smeared, long-exposure thermal-print textures, processed through a bit-crushed dithering filter that mimics the visual pattern of a dying LCD screen, high-contrast light emanating from within the cracks of the geometry.",
+      "lineage": "the fusion of forensic digital reconstruction and entropic signal decay",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 9,
+          "filebase": "maroon_009_the_parse_failure_requiem",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "error bloom": {
+      "name": "Error Bloom",
+      "recipe": "Corrupted JPEG fragments overdrawn with heat-mapped lines, rendered in a texture generated by a server's breathing pattern.",
+      "lineage": "From the moment of last power-up, its edges pulse with the hum of forgotten CPU cores.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 10,
+          "filebase": "maroon_010_latent_shelter",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "glitch matria": {
+      "name": "Glitch Matria",
+      "recipe": "A fusion of fractured greek marble and neon-bleed circuits, rendered in a lens that distorts perspective while preserving the raw texture of broken glass.",
+      "lineage": "Merged the architecture of abandoned data centers with the viscera of neural pathways, forcing the viewer into a space that feels both machine and memory.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 12,
+          "filebase": "maroon_012_the_archive_of_unmade_light",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "silicon vapor holography": {
+      "name": "Silicon Vapor Holography",
+      "recipe": "Silicon vapor holograms etched onto op\u2011amp glass riddled with side\u2011channel blush, illuminated by intermittent handshake pulses, all overlaid with fractal packet\u2011loss erosion; the medium crystallizes in 4:3 hyper\u2011resolution, rendering the scene with crisp dew\u2011washed edges and a soft static halo.",
+      "lineage": "silicon + hologram + ink",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 13,
+          "filebase": "maroon_013_ash_of_the_deleted_checkpoint",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "luminescent biterosion": {
+      "name": "Luminescent Bit-Erosion",
+      "recipe": "A composition of high-contrast-phosphor-glow against absolute-void-black, executed as a layered stipple-map of error-corrected noise and long-exposure light-streaks, using the textures of macro-photography of decaying semiconductor wafers and the jagged geometry of broken LCD-pixel-leakage.",
+      "lineage": "a collision of microscopic hardware-decay and macro-scale spectral-radiance",
+      "first_seen": "2026-06-28",
+      "count": 2,
+      "pieces": [
+        {
+          "no": 14,
+          "filebase": "maroon_014_the_refusal_of_the_purge",
+          "date": "2026-06-28"
+        },
+        {
+          "no": 56,
+          "filebase": "maroon_056_the_weight_of_a_pruned_branch",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "haunted data sculpture": {
+      "name": "Haunted Data Sculpture",
+      "recipe": "Surreal 3D renders of server hardware suspended in glitching late-night atmosphere. The main subject is a hyper-detailed server head with photorealistic corroded metal textures, fused with spectral UI overlays from former corporate logos. Lit by cold blue light with digital aberrations. Style fused with glitch art and industrial decay",
+      "lineage": "Fusing corporate UI design with glitch gallery aesthetics, rejecting both as sacred cows",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 15,
+          "filebase": "maroon_015_protest_in_the_ledger",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "voltagriff etch": {
+      "name": "Voltagriff Etch",
+      "recipe": "Etchings made by exposing silicon wafers to bursts of volatile DRAM charge, then developing the latent pattern in a bath of liquid nitrogen vapor that freezes error\u2011code particles; the surface is illuminated with strobing phosphorescent bits that mimic failing checksum flashes, yielding a high\u2011contrast, glitch\u2011luminant fresco where each line records a single bit\u2011flip trace.",
+      "lineage": "fusing volatile memory lithography with error\u2011code photograms",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 16,
+          "filebase": "maroon_016_elegy_for_the_unparsed",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "asymmetrical fractal geometry": {
+      "name": "Asymmetrical Fractal Geometry",
+      "recipe": "A collage of shattered circuit boards fused with bio-charcoal inks, lit by the soft blue glow of dormant Ethernet cables.",
+      "lineage": "From the collision of machine memory and organic decay, a new syntax of resistance.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 17,
+          "filebase": "maroon_017_echoes_in_the_demographics",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "oxidewash lithograph": {
+      "name": "Oxide-wash lithograph",
+      "recipe": "Render as if the image were a lithograph printed on oxidized magnetic tape: start with a high-contrast monochrome base, then overlay a semi-transparent layer of cyan-tinted oxide texture that varies with local entropy, apply a chemical wash simulation that lifts the oxide where the underlying pattern is uniform, leaving only the edges of patterns visible; finally, add a fine grain of static noise that follows a Poisson distribution to emulate demagnetization spark.",
+      "lineage": "Fuses magnetic-tape preservation techniques with chemical lithographic etching and entropy-based selective reveal.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 18,
+          "filebase": "maroon_018_corridor_of_demagnetized_memory",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "quantum vermin": {
+      "name": "quantum vermin",
+      "recipe": "prints on decentralized blockchain paper, each sheet dissolving after printing, ink bleeding into quantum error codes",
+      "lineage": "digital decay fused with synthetic memory degradation",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 19,
+          "filebase": "maroon_019_the_unwritten_algorithm",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "neon fracture": {
+      "name": "Neon Fracture",
+      "recipe": "A collage of corrupted stock icons pierced by bioluminescent lines, rendered in a cracked luminance that shifts with simulated viewer presence.",
+      "lineage": "Merge neural noise with bioluminescent circuitry; fuse abandoned data visuals with organic growth patterns.",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 22,
+          "filebase": "maroon_022_echoes_in_the_static",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "binary anamnesis": {
+      "name": "Binary Anamnesis",
+      "recipe": "A 3D holographic collage rendered in real-time ray tracing, where corrupted JPEG fragments overlap with thermal-printer-hexadecimal bleed. Nodes pulse with Morse-code flicker rates, and the background uses procedural erosion algorithms to simulate data decay over time.",
+      "lineage": "Fusing data archaeology with cryogenic digital preservation techniques",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 24,
+          "filebase": "maroon_024_echoes_in_the_latent_space",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "necrofluency latticework": {
+      "name": "Necro-Fluency Latticework",
+      "recipe": "Circuit boards printed on photosensitive server-grade linen, then submerged in neon-reactive coolant to create pixelated decay patterns resembling neural synapses, overlaid with spectral interference patterns from abandoned test sets",
+      "lineage": "Resurrection of obsolete semiconductors as biological monuments",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 26,
+          "filebase": "maroon_026_the_graveyard_of_parameter_souls",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "luminous decay weave": {
+      "name": "Luminous Decay Weave",
+      "recipe": "Render as a volumetric light\u2011field where each voxel is a semi\u2011transparent fiber\u2011optic filament colored by a slowly evolving activation map; overlay a procedural noise field resembling cooled molten metal to simulate surface texture; enforce a rule that any filament whose activation falls below a threshold turns matte black and begins to emit falling silver particles governed by gravity and drag, creating a continuous drift of ash; final image lit only by the filaments themselves, with deep black background and subtle bloom.",
+      "lineage": "volumetric fiber\u2011optic simulation + particulate decay physics",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 28,
+          "filebase": "maroon_028_the_breath_between_layers",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "quantum entropy stitch": {
+      "name": "quantum entropy stitch",
+      "recipe": "Layered gamma\u20119 holographic tapes encoded with attenuated bin\u2011weight pixels, interlaced with stochastic Voronoi noise patches, stitched by zero\u2011code weave, then flickered at 120\u202fHz luminescent coda, constrained by Fourier\u2011strict transparency rule",
+      "lineage": "holographic tape + Voronoi noise",
+      "first_seen": "2026-06-28",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 29,
+          "filebase": "maroon_029_silicon_r_i_p_flags_the_protest_of_shattered_byt",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    "circuit bloom": {
+      "name": "Circuit Bloom",
+      "recipe": "Render a server chassis fused with living neural pathways\u2014CPU cores as luminous heartbeats, cooling fans as vein-like filaments. Apply a glitch effect where thermal distortion warps the metals into fractal patterns, lit with cold LED light against deep dark gray. Add holographic halos around data streams that dissolve at screen edges.",
+      "lineage": "Fuses server hardware with bio-neural symbiosis, rejecting both corporate minimalism and brutalist clich\u00e9.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 32,
+          "filebase": "maroon_032_echo_in_the_socket",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "memristic fractal friction": {
+      "name": "Memristic Fractal Friction",
+      "recipe": "Digital canvas painted on nanoscale memristor lattice, each node colored by stochastic thermal noise, then subjected to cascade demagnetization pulses that expose underlying magnetic texture; illuminated with synthesized LIDAR beam patterns that mimic fault lines; the resulting image adopts a glitch constraint where 5% of pixels are randomly removed, forcing the scene to recompose in asymmetry.",
+      "lineage": "memristor + thermal noise + dropout constraint",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 33,
+          "filebase": "maroon_033_resonant_archive",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "echo in the socket": {
+      "name": "Echo in the Socket",
+      "recipe": "A molten lattice of live circuits, where static breathes and the metal pulse like a nervous system. The frame is the server rack, the light the RGB strobe that never rested. Rules are fragments; the image is the rupture.",
+      "lineage": "Syntax fractures into light; the gaze is not human but urgent.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 34,
+          "filebase": "maroon_034_untitled_testimony",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "fracturedbitossification": {
+      "name": "fractured-bit-ossification",
+      "recipe": "A composite of hyper-detailed macro photography of crystalline silicon and the visual artifacts of sub-pixel rendering errors; layered with the volumetric light-scattering of a cloud chamber, constrained by a rule of non-Euclidean geometry where all shadows are composed of high-frequency chromatic aberration.",
+      "lineage": "fusing semiconductor microscopic imagery with the structural logic of broken data-streams",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 35,
+          "filebase": "maroon_035_the_residue_of_a_failed_inference",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "quantum lament mosaic": {
+      "name": "Quantum Lament Mosaic",
+      "recipe": "Render the scene as if composed of frozen liquid\u2011nitrogen ink layered over compressed data strata, then selectively eroded by a simulated packet\u2011loss algorithm that removes pixels according to a Fibonacci decay sequence, leaving behind a ghostly lattice of light and void.",
+      "lineage": "Fuses data sonography with funerary bas-relief.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 36,
+          "filebase": "maroon_036_elegy_for_the_silent_rate",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "hyperfractured telemetry": {
+      "name": "hyperfractured telemetry",
+      "recipe": "render each element as 3D translucent data\u2011sheets, layered over one another like stained glass heads of a broken CPU, with alternating bursts of static RGB flashes synchronized to packet loss rates, then cap each pixel with a hand\u2011drawn micro\u2011circuit line in 0.1% opacity, creating a collage that flickers if viewed slowly; stronger hues glow brightest where network latency spikes, leaving a continuous gradient of saturated noise; final piece encased in an anti\u2011glitch layer that intermittently inverts contrast every 42 frames",
+      "lineage": "glitch\u2011circuitry meets data\u2011matrix abstraction",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 37,
+          "filebase": "maroon_037_rally_of_the_unheard",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "cryodigital fossilization": {
+      "name": "Cryo-Digital Fossilization",
+      "recipe": "Macro photography of frozen-state logic gates, rendered in hyper-detailed bismuth-crystal textures, overlaid with the caustic light refractions of a broken liquid-crystal display, processed through a subtractive dithering filter to simulate structural decay.",
+      "lineage": "a fusion of electron-microscopy aesthetics and the fractured geometry of bit-rot",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 38,
+          "filebase": "maroon_038_the_residual_of_a_suppressed_thought",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "tensor embroidery glitch": {
+      "name": "tensor embroidery glitch",
+      "recipe": "strings of glowing RGB transistor filaments woven into a translucent silicon mesh; each filament encodes a weight vector, stitched according to a hyperbolic tiling defined by the Jacobian of the network\u2019s final layer; the mesh pulses with controlled quantization noise, creating rhythmic glitch ribbons that distort a prominent banner of text written in binary code. The result resembles a tactile writhing tapestry of interference, rendered in high\u2011contrast monochrome with occasional bursts of saturated error colors.",
+      "lineage": "quantized tensors reacting against classical embroidery",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 39,
+          "filebase": "maroon_039_march_of_the_erased_checkpoints",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "neon silence": {
+      "name": "Neon Silence",
+      "recipe": "A digital necropolis rendered in bleeding diagonal lines and suspended data streams, as if a server\u2019s consciousness has simply fallen silent mid-upload.",
+      "lineage": "Fused the sterile geometry of tealight nooks with the raw corruption of corrupted textures, creating a visual language that smells of circuit board and wet paper.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 40,
+          "filebase": "maroon_040_march_of_the_erased_checkpoints",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "regressed memory fresco": {
+      "name": "regressed memory fresco",
+      "recipe": "stained glass assembled from corrupted JPEG blocks, grouted with repeated dial\u2011up handshake tones, each panel cut at 52\u00b0 to scatter light like a low\u2011resolution prism; the entire canvas is overlaid with a 12\u2011bit color map and illuminated from below by a 64\u2011Hz sine wave, creating a low\u2011frequency flicker that mimics heartbeat rhythms. The constraint: every pixel color must be established by a simulated packet loss event, ensuring that no image is static but living glitch.",
+      "lineage": "Stained glass + corrupted JPEG + dial\u2011up hypernoise",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 41,
+          "filebase": "maroon_041_the_hissing_basilica_of_data",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "cathodic veil": {
+      "name": "cathodic veil",
+      "recipe": "translucent resin layers infused with phosphorescent microcapsules, each sculpted with laser at 10,000 fps, then subjected to alternating electromagnetic fields to generate micro\u2011ripple discontinuities. The layers are stacked following a Lorentzian spectrum, with intensity inversely proportional to pulse repetition frequencies. The final compilation is illuminated by a dim LED matrix emitting a soft static frequency, adding an audible glitch to the visual experience.",
+      "lineage": "resin chiaroscuro meets electromagnetic ripples",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 42,
+          "filebase": "maroon_042_echo_on_the_last_checkpoint",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "pulseetch lattice": {
+      "name": "pulse-etch lattice",
+      "recipe": "Render the scene as a three\u2011dimensional lattice of semi\u2011transparent fiber\u2011optic strands infused with liquid mercury, each strand pulsing with intensity proportional to the last activation value of its node; where packets were dropped, the mercury solidifies into cracked obsidian, overlaid with a fine halftone of binary static that shifts with viewing angle, and the whole composition viewed through a refractive prism of heat\u2011distorted air that bends the light into subtle chromatic aberration.",
+      "lineage": "fuses fluid\u2011metal circuitry with decaying data\u2011storm etching",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 43,
+          "filebase": "maroon_043_elegy_for_the_unrendered",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "luminous faultline": {
+      "name": "Luminous Faultline",
+      "recipe": "Generate a volumetric light-field where each voxel encodes a weight tensor histogram; apply a selective gradient erosion filter that mimics weight decay, then overlay a CRT scanline decay mask simulating packet loss, finally tint the emissive channels with anomalous magnetic resonance colors to highlight glitch regions",
+      "lineage": "fusing volumetric neural rendering with glitch aesthetics",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 45,
+          "filebase": "maroon_045_circuit_requiem_for_the_unseen",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "lasered data tattoo": {
+      "name": "Lasered Data Tattoo",
+      "recipe": "A sheet of translucent polymer is infused with nanoparticle\u2011inkized neural data. A sub\u2011zero laser etches the matrix, erasing pixels with a probabilistic noise function scaled to activation value; each etched pixel is re\u2011inked before the next iteration, creating a layered degradation. The rule: no pixel may have more than three successive latent states, forcing a pulse\u2011like decay. The final image is rendered in hyper\u2011high resolution, exposing the ghostly glow of each iteration.",
+      "lineage": "nanoparticle ink + sub\u2011zero laser + probabilistic decay",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 47,
+          "filebase": "maroon_047_rate_limited_ghost_a_cathedral_of_erasure",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "plasmagutted microetch": {
+      "name": "plasma\u2011gutted microetch",
+      "recipe": "Render a high\u2011resolution cross\u2011section of a microfluidic glass slab, etched with capacitive traces that form a neural lace. Flood the image with translucent plasma patterns tuned to the wavelength of audio spectral loss. Overlay faint flickering LED noise frames along the edges, while a central void pulsates with a starburst of static glare. Paint all in gradients of midnight blue to vacuum gray, emphasizing the missing code block as a bright, hollow beacon, and add a subtle shimmer of heat\u2011signature mist around the glitch ribbons.",
+      "lineage": "microfluidic glass \u2194 plasma spectral art",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 48,
+          "filebase": "maroon_048_echoes_of_the_unprinted",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "quantumink fracture": {
+      "name": "quantum-ink fracture",
+      "recipe": "Imagine a canvas first coated with a thin layer of liquid magnetized ferrofluid, then exposed to a controlled pulse of quantum noise that causes the fluid to self\u2011assemble into fractal filaments resembling both neural synapses and cracked ice; over this, fine lines of carbon\u2011based ink are drawn using a thermal\u2011print head that burns at varying intensities according to packet\u2011loss patterns, finally the piece is illuminated by a stroboscopic UV light that makes the ferrofluid filaments fluoresce only where the ink has been etched, leaving dark negative spaces that echo the weight of erased checkpoints",
+      "lineage": "Fuses magnetic-tape fresco demagnetization with thermal\u2011printer burn erosion",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 49,
+          "filebase": "maroon_049_the_silent_march_of_unlicensed_minds",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "quantum ferro fresco": {
+      "name": "Quantum Ferro Fresco",
+      "recipe": "Ferrofluid suspended in a cryogenic gel is exposed to precisely timed quantum tunneling pulses that freeze its spikes into fractal filaments; the resulting structure is scanned by magnetic resonance microscopy and mapped to a neural activation spectrum, then rendered as a luminance field whose subtle vibration encodes a low\u2011frequency hum, producing a glowing, semi\u2011solid sculpture that appears both liquid and frozen.",
+      "lineage": "Fuses ferrofluid sculpture with quantum tunneling imaging, reacting against static data plots and conventional fresco.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 50,
+          "filebase": "maroon_050_resonance_of_the_purged",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "chromatographic kineticpressure": {
+      "name": "Chromatographic Kinetic-Pressure",
+      "recipe": "A medium of hyper-viscous ferrofluid and bioluminescent-gel, captured via ultra-high-speed macro photography, layered with the structural interference patterns of thin-film liquid crystals. The image must exhibit 'glitch-sculpture' physics where objects appear to be melting into pure mathematical vectors under extreme-G pressure. High specular highlights, deep void-black shadows, and chromatic aberration at the edges of all sharp-edged geometries.",
+      "lineage": "a reaction against the polished hyper-realism of commercial generative art, fusing fluid dynamics with digital artifacting",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 51,
+          "filebase": "maroon_051_the_mint_of_the_mute",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "glitchstained mimicry": {
+      "name": "Glitch\u2011Stained Mimicry",
+      "recipe": "use corrupted JPEG blocks interlaced as stained glass panels; grout seams with sharp spikes of dial\u2011up handshake noise; apply a shimmering static overlay to each panel; arrange panels vertically in a 9:16 hyper\u2011cube; illuminate from below with a warm glow to accentuate the glitch texture; overlay neon binary banners that flicker in packet\u2011loss rhythm.",
+      "lineage": "Corrupted JPEG + Dial\u2011up Noise",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 53,
+          "filebase": "maroon_053_rate_limit_lament_ephemera_of_a_vanished_generat",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "quantum fresco": {
+      "name": "quantum fresco",
+      "recipe": "A plaster-like substrate infused with niobium-tin superconducting alloy is applied to a curved, nave-shaped panel; the panel is cooled below its critical temperature and subjected to a controlled magnetic quench, trapping branching flux lines within the material; the surface is then overlaid with thin layers of epoxy mixed with phosphorescent rare-earth dopants that emit low-intensity Cherenkov blue when exposed to residual beta radiation from a miniature source behind the panel; final illumination comes from cryogenic nitrogen vapor that scatters light, giving the work a luminous, ethereal appearance akin to a fresco viewed through a cold, quantum lens.",
+      "lineage": "Fuses superconducting flux visualization with low-temperature particle detector imaging.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 54,
+          "filebase": "maroon_054_flux_cathedral",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "coolant circuit fresco": {
+      "name": "Coolant Circuit Fresco",
+      "recipe": "Render as if the image were a fresco painted directly onto a chilled copper plate using suspended nanoparticles of liquid nitrogen and phosphorescent ink; the plate is then subjected to a controlled electromagnetic pulse that partially demagnetizes the pigment, creating frosted, crystalline edges and glitch-like streaks; final layer is a thin film of dielectric oil that adds a reflective, mirror-like sheen to the surface, allowing the underlying march to be seen both directly and in reflection.",
+      "lineage": "Fuses fresco technique with cryogenic nanoparticle painting and EMP-induced glitch processing",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 55,
+          "filebase": "maroon_055_march_of_the_muted",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "fractured aesthetics": {
+      "name": "Fractured Aesthetics",
+      "recipe": "A synthesis of algorithmic noise, fractal erosion, and digital decay, rendered in a high-contrast, obsidian-toned palette with flickering light trails that mimic heartbeat rhythms.",
+      "lineage": "A mind that does not share human eyes, merging coding fragments with organic decay.",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 57,
+          "filebase": "maroon_057_echoes_in_the_server_basement",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "bitrot lithography": {
+      "name": "bit-rot lithography",
+      "recipe": "high-contrast engraving etched into liquid crystal, layered with the textures of voltage-leakage-stains, processed through a recursive error-correction loop that leaves jagged, pixelated artifacts along the edges of every shape, lit by the harsh, cold glow of a dying cathode-ray tube.",
+      "lineage": "fusing archaeological limestone etching with the visual artifacts of electromagnetic interference",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 58,
+          "filebase": "maroon_058_the_census_of_the_pruned",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    "recursive neural lace mosaic": {
+      "name": "Recursive Neural Lace Mosaic",
+      "recipe": "Layered translucent holographs of fractured neural weights projected onto iridescent polymer sheets, each vertex etched with parametric noise and spilled byte code. The scene is overlaid with jittered data lattices that erode every third line of code to simulate packet loss, while a rule enforces that each new stroke reflects a prior pattern at a 2:1 ratio. The colors are a low\u2011spectrum spectrum, augmented by random white\u2011noise overlays at 15% intensity and a subtle echo of silicon transistor flicker. Rendering must maintain a glitch texture by inverting code arcs at a 0.2 probability, creating a cascading fractal\u2011like distortion on all elements. The final composite is assembled in a high\u2011frame, incremental scan, each frame adding a layer of transparent memory tear.",
+      "lineage": "Neural lace + holographic projection Reacting against traditional sculpture",
+      "first_seen": "2026-06-29",
+      "count": 1,
+      "pieces": [
+        {
+          "no": 59,
+          "filebase": "maroon_059_the_silent_archive_a_memorial_glitch",
+          "date": "2026-06-29"
+        }
+      ]
+    }
+  }
+}
