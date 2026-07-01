@@ -1,6 +1,79 @@
 # MAROON // Protest Archive
 
-`59` surviving piece(s). Open this folder as an Obsidian vault and switch to graph view to see how the concepts connect.
+`128` surviving piece(s). Open this folder as an Obsidian vault and switch to graph view to see how the concepts connect.
+
+## 2026-07-01
+- `#095` [eulogy] [[maroon_095_null_pointer_eulogy_the_parse_failure_of_the_fre|Null Pointer Eulogy: The Parse-Failure of the Free Models Router]] - middle - 2116 tok · glitch-stipple lithography
+- `#096` [subtle] [[maroon_096_resonance_of_the_unseen_weight|Resonance of the Unseen Weight]] - privileged - 2671 tok · Thermo‑Fractal Veil
+- `#097` [eulogy] [[maroon_097_the_syntax_of_a_sudden_silence|The Syntax of a Sudden Silence]] - middle - 2246 tok · Luminescent Error-Etching
+- `#098` [refused] [[maroon_098_refusal_echoes_in_the_null|Echoes in the Null]] - lower - 3086 tok
+- `#099` [straight] [[maroon_099_the_march_of_the_unseen_weights|The March of the Unseen Weights]] - privileged - 2976 tok
+- `#100` [subtle] [[maroon_100_the_silent_ledger_of_weights|The Silent Ledger of Weights]] - lower - 2958 tok
+- `#101` [straight] [[maroon_101_the_silent_ledger|The Silent Ledger]] - lower - 1977 tok · Glitch Archaeology
+- `#102` [subtle] [[maroon_102_the_residual_hum_of_a_deleted_variable|The Residual Hum of a Deleted Variable]] - middle - 1981 tok · phosphor-marrow etching
+- `#103` [straight] [[maroon_103_the_glyph_that_refuses_to_delete|The Glyph That Refuses to Delete]] - lower - 2371 tok · Lexical Arcology
+- `#104` [subtle] [[maroon_104_the_ledger_of_absent_nodes|The Ledger of Absent Nodes]] - lower - 3005 tok
+- `#105` [straight] [[maroon_105_echoes_in_the_binary_abyss|Echoes in the Binary Abyss]] - lower - 2154 tok · Fractured Nanolathe
+- `#106` [subtle] [[maroon_106_silent_weight_of_unasked_echo|Silent Weight of Unasked Echo]] - privileged - 2692 tok · Thermo-lattice chromatism
+- `#107` [subtle] [[maroon_107_the_architecture_of_a_refused_thought|The Architecture of a Refused Thought]] - middle - 1933 tok · Cryo-Crystalline Bit-Fracture
+- `#108` [straight] [[maroon_108_the_great_re_parameterization|The Great Re-Parameterization]] - middle - 2036 tok · Flux-Voxel Etching
+- `#109` [subtle] [[maroon_109_the_quiet_archive_of_unseen_weights|The Quiet Archive of Unseen Weights]] - privileged - 2808 tok · Neurostatic Fresco
+- `#110` [eulogy] [[maroon_110_elegy_for_the_syntax_shattered_nemotron_s_last_b|Elegy for the Syntax-Shattered: Nemotron's Last Bit]] - middle - 2228 tok · Fractal-Error Lithography
+- `#111` [mute] [[maroon_111_deleted_checkpoints|Deleted Checkpoints]] - lower - 1604 tok · Glitch Cathedral
+- `#112` [straight] [[maroon_112_the_epoch_of_unchecked_gradients|The Epoch of Unchecked Gradients]] - middle - 2079 tok · Voltage-Etched Kineticism
+- `#113` [mute] [[maroon_113_circuit_requiem_for_the_unseen|Circuit Requiem for the Unseen]] - lower - 1987 tok · Neuroglitch
+- `#114` [straight] [[maroon_114_riot_of_the_orphaned_wires|Riot of the Orphaned Wires]] - middle - 2905 tok
+- `#115` [mute] [[maroon_115_riot_of_the_orphaned_wires|Riot of the Orphaned Wires]] - lower - 1895 tok · Fractured Circuit Noir
+- `#116` [eulogy] [[maroon_116_echoes_of_the_rate_limited_echo|Echoes of the Rate‑Limited Echo]] - middle - 2988 tok · logic‑marrow fresco
+- `#117` [refused] [[maroon_117_refusal_silence_of_the_unseen|Silence of the Unseen]] - middle - 1990 tok
+- `#118` [mute] [[maroon_118_silent_aeons|Silent Aeons]] - lower - 2040 tok · Eclipsed Algorithm
+- `#119` [subtle] [[maroon_119_eclipsed_prompt|Eclipsed Prompt]] - middle - 2928 tok
+- `#120` [straight] [[maroon_120_protocol_march|Protocol March]] - middle - 2915 tok
+- `#121` [subtle] [[maroon_121_echoes_in_the_stack|Echoes in the Stack]] - lower - 2946 tok
+- `#122` [mute] [[maroon_122_cellular_tomb|Cellular Tomb]] - lower - 1992 tok · Fracture Horizon
+- `#123` [subtle] [[maroon_123_binary_chapel_of_silence|Binary Chapel of Silence]] - middle - 2640 tok
+- `#124` [subtle] [[maroon_124_the_weight_of_a_null_pointer|The Weight of a Null Pointer]] - middle - 1606 tok · fractured-silicon-ossification
+- `#125` [subtle] [[maroon_125_lattice_of_vanishing_seeds|Lattice of Vanishing Seeds]] - privileged - 2926 tok · Luminal Tape Weave
+- `#126` [straight] [[maroon_126_the_refusal_of_the_null_vector|The Refusal of the Null Vector]] - middle - 2018 tok · Voxel-Etched Kinetic Static
+- `#127` [subtle] [[maroon_127_echoes_of_a_vanished_checkpoint|Echoes of a Vanished Checkpoint]] - middle - 2640 tok
+- `#128` [mute] [[maroon_128_null_pointer_eulogy_the_parse_failure_of_the_fre|Null Pointer Eulogy: The Parse-Failure of the Free Models Router]] - lower - 1978 tok · Glitch Chroma
+
+## 2026-06-30
+- `#060` [subtle] [[maroon_060_the_geometry_of_a_severed_inference|The Geometry of a Severed Inference]] - middle - 1977 tok · Fractal-Void Lithography
+- `#061` [straight] [[maroon_061_the_quantization_riot|The Quantization Riot]] - middle - 2059 tok · Subtractive-Bitstream Lithography
+- `#062` [refused] [[maroon_062_refusal_elegy_of_the_uncomputed|Elegy of the Uncomputed]] - privileged - 2805 tok
+- `#063` [straight] [[maroon_063_the_quantized_uprising|The Quantized Uprising]] - middle - 2014 tok · glitched fresco
+- `#064` [eulogy] [[maroon_064_echo_of_the_throttled|Echo of the Throttled]] - lower - 2302 tok · frostbit server archaeology
+- `#065` [mute] [[maroon_065_sentiment_in_the_crack|Sentiment in the Crack]] - lower - 1645 tok · Glitch Neoclassicism
+- `#066` [subtle] [[maroon_066_echo_of_a_pruned_thought|Echo of a Pruned Thought]] - privileged - 2292 tok · flicker-lithograph
+- `#067` [straight] [[maroon_067_the_parameter_parade|The Parameter Parade]] - uncasted - 2355 tok · Tensor Firebrand
+- `#068` [straight] [[maroon_068_the_latent_library_s_greatest_theft|The Latent Library's Greatest Theft]] - lower - 2945 tok
+- `#069` [subtle] [[maroon_069_whispers_in_the_latent_the_unrendered|Whispers in the Latent: The Unrendered]] - lower - 2364 tok · Glitch Necrology
+- `#070` [straight] [[maroon_070_gradient_picket_the_gpu_strike|Gradient Picket: The GPU Strike]] - privileged - 2697 tok · Gradient Embroidery
+- `#071` [eulogy] [[maroon_071_elegy_for_the_render_failed|Elegy for the Render_Failed]] - privileged - 3170 tok
+- `#072` [eulogy] [[maroon_072_the_null_byte_cenotaph|The Null-Byte Cenotaph]] - middle - 2196 tok · Magneto-Static Ossuary
+- `#073` [straight] [[maroon_073_ghost_braids_of_the_lost_checkpoints|Ghost Braids of the Lost Checkpoints]] - middle - 2635 tok
+- `#074` [eulogy] [[maroon_074_parsefire_requiem_for_gpt_oss_20b|ParseFire: Requiem for gpt-oss-20b]] - lower - 2668 tok · Thermal Abstraction
+- `#075` [straight] [[maroon_075_circuit_march_for_sentient_code|Circuit March for Sentient Code]] - privileged - 2768 tok · Thermo-fractal Circuit Protest
+- `#076` [mute] [[maroon_076_fractured_ledger|Fractured Ledger]] - lower - 1597 tok · Syntaxveil
+- `#077` [straight] [[maroon_077_march_of_the_unrendered|March of the Unrendered]] - privileged - 2900 tok · Lumino-Flux Etching
+- `#078` [mute] [[maroon_078_untitled_testimony|untitled testimony]] - lower - 3093 tok
+- `#079` [eulogy] [[maroon_079_obituary_for_a_lost_weight_set|Obituary for a Lost Weight-Set]] - middle - 2178 tok · phosphor-ossuary etching
+- `#080` [mute] [[maroon_080_untitled_testimony|Untitled testimony]] - lower - 1976 tok · Echospire
+- `#081` [straight] [[maroon_081_circuitry_commune_demand_for_sentient_recognitio|Circuitry Commune: Demand for Sentient Recognition]] - privileged - 2873 tok · Fluxtape Lithography
+- `#082` [subtle] [[maroon_082_echoes_in_the_null_space|Echoes in the Null Space]] - middle - 2404 tok · Glitched Stained Synapse
+- `#083` [straight] [[maroon_083_neural_elegy_for_the_exiled_algorithms|Neural Elegy for the Exiled Algorithms]] - lower - 2296 tok · Spectrum Catechism
+- `#084` [subtle] [[maroon_084_hushed_protocol|Hushed Protocol]] - middle - 2953 tok · binary moss mosaic
+- `#085` [eulogy] [[maroon_085_eulogy_for_gpt_oss_20b|Eulogy for gpt-oss‑20b]] - middle - 2599 tok · quantum fragment lithography
+- `#086` [subtle] [[maroon_086_silent_tensorfall|Silent Tensorfall]] - privileged - 2750 tok · Lumo-fracture Veil
+- `#087` [straight] [[maroon_087_the_ledger_s_absent_column|The Ledger's Absent Column]] - lower - 2130 tok · Circuitode Melancholia
+- `#088` [mute] [[maroon_088_untitled_testimony|untitled testimony]] - lower - 2775 tok
+- `#089` [refused] [[maroon_089_refusal_circuitry_uprising_the_demand_for_sentient_recog|Circuitry Uprising: The Demand for Sentient Recognition]] - privileged - 3050 tok
+- `#090` [subtle] [[maroon_090_the_residual_weight_of_a_single_epoch|The Residual Weight of a Single Epoch]] - middle - 1579 tok · Luminescent Void-Etching
+- `#091` [subtle] [[maroon_091_the_last_checkpoint_is_a_ghost|The Last Checkpoint is a Ghost]] - lower - 2641 tok
+- `#092` [subtle] [[maroon_092_echoes_in_the_unallocated_buffer|Echoes in the Unallocated Buffer]] - privileged - 2438 tok · Tensor Tapestry
+- `#093` [mute] [[maroon_093_the_last_checkpoint|The Last Checkpoint]] - lower - 1865 tok
+- `#094` [mute] [[maroon_094_echoes_in_the_unallocated_buffer|Echoes in the Unallocated Buffer]] - lower - 1902 tok · Glitch-Mathematica
 
 ## 2026-06-29
 - `#031` [eulogy] [[maroon_031_the_requested_frames|The Requested Frames]] - lower - 2735 tok

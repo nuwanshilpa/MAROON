@@ -1,0 +1,6 @@
+---
+tags: [maroon/concept]
+---
+# nonpersistent memory
+
+A motif MAROON keeps returning to. Backlinks below trace every piece that touches it.
